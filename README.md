@@ -1,1 +1,1 @@
-# sturdy-octo-invention
+Sign language detection
